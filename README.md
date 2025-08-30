@@ -37,7 +37,11 @@ The dashboard is designed to help **hospital administrators, healthcare analysts
 - Weekday vs weekend admissions (KPI)  
 - Age group distribution (bar chart)  
 - Gender distribution (donut chart)    
-- Medical condition breakdown  
+- Medical condition breakdown
+
+###  Contributing
+Feel free to raise issues or suggest improvements!
+
 
 ---
 
