@@ -36,8 +36,7 @@ The dashboard is designed to help **hospital administrators, healthcare analysts
 - Total male vs female patients (KPI)  
 - Weekday vs weekend admissions (KPI)  
 - Age group distribution (bar chart)  
-- Gender distribution (donut chart)  
-- Satisfaction score distribution  
+- Gender distribution (donut chart)    
 - Medical condition breakdown  
 
 ---
