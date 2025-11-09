@@ -20,6 +20,13 @@ The dashboard is designed to help **hospital administrators, healthcare analysts
 - Evaluate **mortality**  
 
 ---
+## 📊 Dashboard Preview
+
+Here are some snapshots of my Power BI dashboard 👇
+
+![Dashboard 1](page1.png)
+![Dashboard 2](page2.png)
+---
 
 ## 📊 Dashboard Pages
 
